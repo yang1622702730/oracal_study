@@ -1,7 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8861699-575e-4056-a7a5-4bcd8bae0a7e" name="Default Changelist" comment="" />
+    <list default="true" id="a8861699-575e-4056-a7a5-4bcd8bae0a7e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/OracleStudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/AlgorithmDesign.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/date7_22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/META-INF/testcode.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/PersonInformation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/proxymodel/Network.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/proxymodel/ProxyServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/proxymodel/Server1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/proxymodel/Server2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/review/Flash.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/review/Pc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/review/Printer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/review/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/review/Usb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/test/ArrayIndexOutOfBoundsExceptionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/test/BreakAndContinue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/test/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/test/LongestPrefix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/test/NullPointerExceptionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/test/Palindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/test/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/test/RemoveDuplicates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/test/ReverseInteger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/test/RomanNumberToInt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/test/SingletonMode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/test/SumTwoNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/test/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/out/production/testcode/com/company/test/ValidBrackets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/PersonInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/proxymodel/Network.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/proxymodel/ProxyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/proxymodel/Server1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/proxymodel/Server2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/review/Flash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/review/Pc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/review/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/review/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/review/Usb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/test/ArrayIndexOutOfBoundsExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/test/BreakAndContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/test/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/test/LongestPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/test/NullPointerExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/test/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/test/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/test/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/test/ReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/test/RomanNumberToInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/test/SingletonMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/test/SumTwoNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/test/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/src/com/company/test/ValidBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/testcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_22/testcode1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmDesign/date7_24/date7_24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01/day01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day06/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day06/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day06/.idea/day06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day06/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day06/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day06/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day06/day06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day06/src/com/fanyang/java/order/ExecutionSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day06/src/com/fanyang/java/order/ExecutionSequenceSubclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day06/src/com/fanyang/java/order/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day06/src/com/fanyang/java/order/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day07/day07.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/out/production/testcode/META-INF/testcode.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/out/production/testcode/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/out/production/testcode/com/company/PersonInformation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/out/production/testcode/com/company/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/out/production/testcode/com/company/proxymodel/Network.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/out/production/testcode/com/company/proxymodel/ProxyServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/out/production/testcode/com/company/proxymodel/Server1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/out/production/testcode/com/company/proxymodel/Server2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/out/production/testcode/com/company/review/Flash.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/out/production/testcode/com/company/review/Pc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/out/production/testcode/com/company/review/Printer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/out/production/testcode/com/company/review/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/out/production/testcode/com/company/review/Usb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/out/production/testcode/com/company/test/ArrayIndexOutOfBoundsExceptionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/out/production/testcode/com/company/test/BreakAndContinue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/out/production/testcode/com/company/test/LongestPrefix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/out/production/testcode/com/company/test/NullPointerExceptionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/out/production/testcode/com/company/test/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/out/production/testcode/com/company/test/RemoveDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/out/production/testcode/com/company/test/ReverseInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/out/production/testcode/com/company/test/RomanNumberToInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/out/production/testcode/com/company/test/SingletonMode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/out/production/testcode/com/company/test/SumTwoNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/out/production/testcode/com/company/test/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/out/production/testcode/com/company/test/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/out/production/testcode/com/company/test/ValidBrackets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/src/com/company/PersonInformation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/src/com/company/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/src/com/company/proxymodel/Network.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/src/com/company/proxymodel/ProxyServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/src/com/company/proxymodel/Server1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/src/com/company/proxymodel/Server2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/src/com/company/review/Flash.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/src/com/company/review/Pc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/src/com/company/review/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/src/com/company/review/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/src/com/company/review/Usb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/src/com/company/test/ArrayIndexOutOfBoundsExceptionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/src/com/company/test/BreakAndContinue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/src/com/company/test/LongestPrefix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/src/com/company/test/NullPointerExceptionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/src/com/company/test/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/src/com/company/test/RemoveDuplicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/src/com/company/test/ReverseInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/src/com/company/test/RomanNumberToInt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/src/com/company/test/SingletonMode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/src/com/company/test/SumTwoNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/src/com/company/test/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/src/com/company/test/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/src/com/company/test/ValidBrackets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode/testcode.iml" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,16 +166,29 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1vYbh7ywvdusbcW9UYLGg1S9VQP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15992102" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -38,7 +202,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test1">
+  <component name="RunManager" selected="Application.ExecutionSequenceSubclass">
+    <configuration name="ExecutionSequenceSubclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fanyang.java.order.ExecutionSequenceSubclass" />
+      <module name="day06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fanyang.java.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.GuessNumber" />
+      <module name="day03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="day02" />
@@ -65,9 +255,13 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.test1" />
+      <item itemvalue="Application.GuessNumber" />
+      <item itemvalue="Application.ExecutionSequenceSubclass" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExecutionSequenceSubclass" />
+        <item itemvalue="Application.GuessNumber" />
         <item itemvalue="Application.test1" />
       </list>
     </recent_temporary>
@@ -85,10 +279,26 @@
       <workItem from="1626742089480" duration="1827000" />
       <workItem from="1626751657964" duration="3917000" />
       <workItem from="1626781376684" duration="1243000" />
+      <workItem from="1627111757695" duration="567000" />
+      <workItem from="1627269264470" duration="51000" />
+      <workItem from="1627269882776" duration="1175000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

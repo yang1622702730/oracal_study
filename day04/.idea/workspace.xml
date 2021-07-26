@@ -30,6 +30,7 @@
   <component name="ProjectId" id="1veMrl6Qy35lyNRDg02D6PA5TZL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -124,8 +125,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626918301414</updated>
-      <workItem from="1626918311981" duration="14132000" />
+      <workItem from="1626918311981" duration="14592000" />
     </task>
+    <task id="LOCAL-00001" summary="oracle_study day04 commit to github!!!">
+      <created>1626956597506</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626956597506</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,5 +150,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="oracle_study day04 commit to github!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="oracle_study day04 commit to github!!!" />
   </component>
 </project>
