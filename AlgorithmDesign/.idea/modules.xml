@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlgorithmDesign.iml" filepath="$PROJECT_DIR$/AlgorithmDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/date7_22/date7_22.iml" filepath="$PROJECT_DIR$/date7_22/date7_22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/date7_24/date7_24.iml" filepath="$PROJECT_DIR$/date7_24/date7_24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/date7_27/date7_27.iml" filepath="$PROJECT_DIR$/date7_27/date7_27.iml" />
+    </modules>
+  </component>
+</project>
