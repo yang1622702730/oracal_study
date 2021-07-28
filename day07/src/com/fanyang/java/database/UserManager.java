@@ -28,8 +28,6 @@ public class UserManager {
         printTableInfo();
     }
 
-
-
     /*
      * @Description: 更改客户信息
      * @Param: [user]
@@ -75,9 +73,21 @@ public class UserManager {
      * @time: 2021/7/27 10:28
      */
     void delete(int id) {
+        System.out.println("真在查找删除的用户");
+        boolean flag = true;
+        for (int j = 0; j < i; j++) {
+            if (id == users[j].getId()) {
+                flag = false;
+            }
+        }
+        if (flag == true) {
+            System.out.println("没有找到你输入的这个用户ID，请重新选择");
+            return;
+        }
         for (int j = id - 1; j < i - 1; j++) {
             users[j] = users[j + 1];
         }
+        System.out.println("删除成功");
         i--;
         System.out.println("真在打印删除后的用户表");
         printTableInfo();

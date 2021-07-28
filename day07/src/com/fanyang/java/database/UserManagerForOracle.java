@@ -2,11 +2,11 @@ package com.fanyang.java.database;
 
 /**
  * @program: OracleStudy
- * @description:   子类去重写，实现父类中的方法
+ * @description: 子类去重写，实现父类中的方法
  * @author: FanYang
  * @create: 2021-07-27 09:32
  */
-public class UserManagerForOracle extends UserManager{
+public class UserManagerForOracle extends UserManager {
 /*    @Override
     void add(User user) {
         user.setTypes("ORACLE");

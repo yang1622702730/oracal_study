@@ -9,7 +9,7 @@ package com.fanyang.java;/**
  * @author: FanYang
  * @create: 2021-07-27 20:09
  */
-public class RemoveSameElement {
+/*public class RemoveSameElement {
     public static int solutions(int[] nums,int val){
         if (nums.length==0||nums==null){
             return 0;
@@ -25,6 +25,24 @@ public class RemoveSameElement {
         return j;
     }
 
+    public static void main(String[] args) {
+        int len = RemoveSameElement.solutions(new int[]{3,2,4,2,3,5},2);
+        System.out.println(len);
+    }
+}*/
+
+//2021-7-28第二次练习
+public class RemoveSameElement {
+    public static int solutions(int[] nums, int val) {
+        int i=0;
+        for (int j = 0; j < nums.length; j++) {
+            if (val!=nums[j]){
+                nums[i] =nums[j];
+                i++;
+            }
+        }
+        return i;
+    }
     public static void main(String[] args) {
         int len = RemoveSameElement.solutions(new int[]{3,2,4,2,3,5},2);
         System.out.println(len);
