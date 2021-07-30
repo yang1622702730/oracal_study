@@ -40,15 +40,15 @@ public class PlusOne {
                 digits[i] = 0;
             } else {
                 digits[i] += 1;
-                for (int j = 0; j < digits.length; j++) {
-                    System.out.println(digits[j]);
-                }
+//                for (int j = 0; j < digits.length; j++) {
+//                    System.out.println(digits[j]);
+//                }
                 return digits;
             }
 
         }
         //如果所有位都是进位，则长度+1
-        digits= new int[digits.length + 1];
+        digits = new int[digits.length + 1];
         digits[0] = 1;
         for (int j = 0; j < digits.length; j++) {
             System.out.println(digits[j]);
@@ -56,7 +56,33 @@ public class PlusOne {
         return digits;
     }
 
+
+    //2021-7-30第二次练习
+    public static int[] solutions2(int[] digits) {
+        if (0 == digits.length || null == digits) {
+            return null;
+        }
+        for (int i = digits.length - 1; i >= 1; i--) {
+            if (digits[i] == 9) {
+                digits[i] = 0;
+            } else {
+                digits[i] += 1;
+                System.out.println("aaaaaa");
+                return digits;
+            }
+        }
+        int[] newDigits = new int[digits.length+1];
+        newDigits[0]+=1;
+        System.out.println("sasfaf");
+        return newDigits;
+    }
+
     public static void main(String[] args) {
-        PlusOne.solutions(new int[]{8,8,9});
+        PlusOne.solutions(new int[]{8, 8, 9});
+        int[] ints = PlusOne.solutions2(new int[]{9, 8, 9});
+        for (int i = 0; i < ints.length; i++) {
+            System.out.println(ints[i]);
+
+        }
     }
 }
