@@ -13,20 +13,40 @@ public class ClimbStairs {
     public static int solutions(int order) {
         if (order == 1) {
             order--;
-            sum +=1;
+//            sum +=1;
+            return 1;
+        }
+        if (order<0){
+            return 0;
         }
         if (order == 2) {
             order--;
-            sum +=2;
+//            sum +=2;
+            return 2;
         } else {
-            order--;
-            return solutions(order - 1) + solutions(order - 2);
+            return (solutions(order - 1) + solutions(order - 2));
         }
-        return 0;
+    }
+    public int climbStairs(int n){
+        if (n == 1) {
+            n--;
+//            sum +=1;
+            return 1;
+        }
+        if (n<0){
+            return 0;
+        }
+        if (n == 2) {
+            n--;
+//            sum +=2;
+            return 2;
+        } else {
+            return (climbStairs(n - 1) + climbStairs(n - 2));
+        }
     }
 
     public static void main(String[] args) {
-        int solutions = ClimbStairs.solutions(2);
+        int solutions = ClimbStairs.solutions(5);
         System.out.println(solutions);
     }
 }
