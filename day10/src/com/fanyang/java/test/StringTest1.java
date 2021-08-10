@@ -21,3 +21,7 @@ public class StringTest1 {
 
     }
 }
+interface B{}
+interface A extends B{
+
+}
