@@ -14,7 +14,10 @@ import java.io.IOException;
 public class IoTest1 {
     @Test
     public void test1() {
+<<<<<<< HEAD
         System.out.println("testPrint");
+=======
+>>>>>>> baa664383108aae1389ea613ec0a1fd1e49c30aa
         File file = new File("C:\\Users\\86187\\Desktop\\计算机生僻单词.txt");
         if (file.exists()) {
             System.out.println(file.getName());

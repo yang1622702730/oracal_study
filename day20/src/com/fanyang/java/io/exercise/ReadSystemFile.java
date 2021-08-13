@@ -10,7 +10,11 @@ import java.io.File;
  * @author: FanYang
  * @create_date: 2021-08-13 10:27
  */
+<<<<<<< HEAD
 public class ReadSystemFile {
+=======
+public class Exercise1 {
+>>>>>>> baa664383108aae1389ea613ec0a1fd1e49c30aa
     @Test
     public void judgeDirectoryOrFile() {
         File file = new File("C:\\Program Files");
@@ -26,6 +30,7 @@ public class ReadSystemFile {
         }
     }
 
+<<<<<<< HEAD
     /*
      * @Description: 文件夹的具体操作流程
      * @Param: [file]
@@ -64,10 +69,37 @@ public class ReadSystemFile {
      */
     private void operateFile(File file) {
         System.out.println(file + "它是文件");
+=======
+    private void operateDirectory(File file) {
+        int countLength = 0;
+        System.out.println(file+"它是目录");
+        File[] newFiles = file.listFiles();
+        if (newFiles != null) {
+            for (File newFile : newFiles) {
+                countLength += newFile.length();//计算当前目录文件的文件大小
+                if (newFile.isFile()){
+                    System.out.println();
+                    System.out.println("它是"+file+"的子目录");
+                    operateFile(newFile);
+                }
+            }
+        }System.out.println(file + "目录的大小为" + countLength);
+        judgeReadAndWriteAndExecute(file);
+
+
+
+
+
+    }
+
+    private void operateFile(File file) {
+        System.out.println(file+"它是文件");
+>>>>>>> baa664383108aae1389ea613ec0a1fd1e49c30aa
         System.out.println(file + "文件的大小为" + file.length());
         judgeReadAndWriteAndExecute(file);
     }
 
+<<<<<<< HEAD
 
     /*
      * @Description: 判断文件的读写权限
@@ -76,24 +108,35 @@ public class ReadSystemFile {
      * @author: FanYang
      * @time: 2021/8/13 11:06
      */
+=======
+>>>>>>> baa664383108aae1389ea613ec0a1fd1e49c30aa
     private void judgeReadAndWriteAndExecute(File files) {
         boolean b = files.canExecute();
         if (b == true) {
             System.out.println("文件具有可执行权限");
+<<<<<<< HEAD
         } else {
             System.out.println("文件不具备可执行权限");
+=======
+>>>>>>> baa664383108aae1389ea613ec0a1fd1e49c30aa
         }
         boolean b1 = files.canRead();
         if (b1 == true) {
             System.out.println("文件具有可读权限");
+<<<<<<< HEAD
         } else {
             System.out.println("文件不具备可读权限");
+=======
+>>>>>>> baa664383108aae1389ea613ec0a1fd1e49c30aa
         }
         boolean b2 = files.canWrite();
         if (b2 == true) {
             System.out.println("文件具有可写权限");
+<<<<<<< HEAD
         } else {
             System.out.println("文件不具备可写权限");
+=======
+>>>>>>> baa664383108aae1389ea613ec0a1fd1e49c30aa
         }
     }
 

@@ -1,2 +1,8 @@
 # Default ignored files
+<<<<<<< HEAD
 /workspace.xml
+=======
+/workspace.xml
+# Project exclude paths
+/../
+>>>>>>> baa664383108aae1389ea613ec0a1fd1e49c30aa
