@@ -1,4 +1,4 @@
-package com.fanyang.java.collection;
+package com.fanyang.java.collection.exercise;
 
 import org.junit.Test;
 
